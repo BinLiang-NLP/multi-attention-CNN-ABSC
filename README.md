@@ -1,33 +1,25 @@
-# multi-channels-CNN-ABSC
-
 # Introduction
-The core code of our proposed method for refining target embeddings.
 
 This repository was used in our paper:  
   
-**“Context-aware Embedding for Targeted Aspect-based Sentiment Analysis”**  
-Bin Liang, Jiachen Du, Ruifeng Xu<sup>*</sup>, Binyang Li, Hejiao Huang. *Proceedings of ACL 2019*
+**“Aspect-based sentiment analysis based on multi-attention CNN”**  
+Bin Liang, Quan Liu<sub>*</sub>, Jin Xu, Qian Zhou, and Peng Zhang. *Journal of Computer Research and Development*
   
 Please cite our paper and kindly give a star for this repository if you use this code. 
 
 ## Requirements
 
-* Python 3.6 / 3.7
-* numpy >= 1.13.3
-* PyTorch >= 1.0.0
+* Python >= 3.2
+* Numpy >= 1.11
+* Panda >= 0.17
+* Keras >= 1.0
 
 ## Usage
 
 ### Training
-* Train with command, optional arguments could be found in [train.py](/train.py)
-* Run refining target: ```./run.sh```
+* Train with command:
+* ```python model_kfold.py```
 
-
-## Model
-
-An overall architecture of our proposed framework is as follow:
-
-<img src="/assets/model.png" width = "40%" />
 
 ## Citation
 
