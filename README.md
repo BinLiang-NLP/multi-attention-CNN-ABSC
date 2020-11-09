@@ -40,4 +40,22 @@ The BibTex of the citation is as follow:
 }
 ```
 
+```bibtex
+@article{梁斌:1724,
+author = {梁斌,刘全,徐进,周倩,章鹏},
+title = {基于多注意力卷积神经网络的特定目标情感分析},
+publisher = {计算机研究与发展},
+year = {2017},
+journal = {计算机研究与发展},
+volume = {54},
+number = {8},
+eid = {1724},
+numpages = {11},
+pages = {1724},
+keywords = {注意力机制;卷积神经网络;特定目标情感分析;深度学习;自然语言处理},
+url = {http://crad.ict.ac.cn/CN/abstract/article_3497.shtml},
+doi = {10.7544/issn1000-1239.2017.20170178}
+}  
+```
+
 
