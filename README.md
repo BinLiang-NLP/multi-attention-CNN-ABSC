@@ -4,6 +4,9 @@ This repository was used in our paper:
   
 **“Aspect-based sentiment analysis based on multi-attention CNN”**  
 Bin Liang, Quan Liu<sup>*</sup>, Jin Xu, Qian Zhou, and Peng Zhang. *Journal of Computer Research and Development*
+
+**“基于多注意力卷积神经网络的特定目标情感分析”**  
+Bin Liang, Quan Liu<sup>*</sup>, Jin Xu, Qian Zhou, and Peng Zhang. *Journal of Computer Research and Development*
   
 Please cite our paper and kindly give a star for this repository if you use this code. 
 
