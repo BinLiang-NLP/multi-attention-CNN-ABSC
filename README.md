@@ -6,6 +6,7 @@ This repository was used in our paper:
 Bin Liang, Quan Liu<sup>*</sup>, Jin Xu, Qian Zhou, and Peng Zhang. *Journal of Computer Research and Development*
 
 [**基于多注意力卷积神经网络的特定目标情感分析**](http://crad.ict.ac.cn/CN/10.7544/issn1000-1239.2017.20170178) 
+<br>
 梁斌, 刘全<sup>*</sup>, 徐进, 周倩, 章鹏. *计算机研究与发展*
   
 Please cite our paper and kindly give a star for this repository if you use this code. 
