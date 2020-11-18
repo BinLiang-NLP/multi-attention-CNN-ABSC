@@ -30,6 +30,8 @@ Please cite our paper and kindly give a star for this repository if you use this
 
 The BibTexs of the citation are as follow:
 
+English
+
 ```bibtex
 @article{bin2017aspect,
   title={Aspect-based sentiment analysis based on multi-attention CNN},
@@ -41,6 +43,8 @@ The BibTexs of the citation are as follow:
   year={2017}
 }
 ```
+
+Chinese
 
 ```bibtex
 @article{梁斌:1724,
