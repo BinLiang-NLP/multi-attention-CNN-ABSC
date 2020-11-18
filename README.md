@@ -28,7 +28,7 @@ Please cite our paper and kindly give a star for this repository if you use this
 
 ## Citation
 
-The BibTex of the citation is as follow:
+The BibTexs of the citation are as follow:
 
 ```bibtex
 @article{bin2017aspect,
